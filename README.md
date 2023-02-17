@@ -1,5 +1,5 @@
 # UFOs
-
+![nasa](./web/static/images/nasa.jpg)
 ## Overview of Analysis
 
 The purpose of this analysis is to create a web page with a dynamic table showing the results of filtered UFO sighting data. The first website created offered users only a date filter. However, for this project, I want to allow users to filter data beyond just dates. Additional filters for the table include City, State, Country, and Shape.
@@ -10,8 +10,8 @@ _____
 
 Previously, web pages contained only date filters that required the user to click a button to apply the filter. The newly updated version allows users to filter data simply by entering criteria in any filter field. The website then automatically filters the table to display relevant data. The first figure shows a table without filters. The user can see in the text box what kind of formatting is required for the filter to work. As you type, the table automatically filters the results accordingly. 
 
-!()[]
-!()[]
+![img](./web/static/images/img1.png)
+![img](./web/static/images/img2.png)
 
 
 ## Summary
