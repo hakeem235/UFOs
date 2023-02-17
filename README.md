@@ -13,7 +13,7 @@ Previously, web pages contained only date filters that required the user to clic
 ![img](./web/static/images/img1.png)
 ![img](./web/static/images/img2.png)
 
-
+____
 ## Summary
 
 A drawback of this website is that it is currently not resizable in relation to the viewing device. part of the website. For example, when a user zooms in on her webpage,  the image can be resized, but not the entire webpage. A recommendation for further development is therefore to add formatting that realigns sections and margins when the page is viewed on a mobile device or tablet.
